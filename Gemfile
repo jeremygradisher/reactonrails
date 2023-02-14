@@ -35,6 +35,7 @@ gem 'jbuilder'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
 gem 'react_on_rails'
+gem 'foreman'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
